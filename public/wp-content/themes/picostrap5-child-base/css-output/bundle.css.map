@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "bundle.css",
-	"sourceRoot": "/Users/sandy/Documents/projects/rmit/github/hugo-wordpress",
+	"sourceRoot": "/Users/sandy/Documents/projects/rmit/github/hugo-wordpress-learn-lab",
 	"sources": [
 		"assets/sass/main.scss",
 		"assets/sass/_theme_variables.scss",
